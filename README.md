@@ -4,3 +4,4 @@ It uses HTML5 and CSS3.
 
 ## FEATURES
 * Who to spank
+license: Mit.
